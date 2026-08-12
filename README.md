@@ -112,12 +112,18 @@ Core Java practice projects covering OOP, control flow and console I/O.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Satvik2813&show_icons=true&border_color=21262D&border_radius=8&title_color=FF9500&icon_color=FFB84D&text_color=E6EDF3&bg_color=0D1117" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Satvik2813&background=0D1117&border=21262D&border_radius=8&stroke=21262D&ring=FF9500&fire=FF9500&currStreakLabel=FF9500&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Satvik2813&show_icons=true&border_color=21262D&border_radius=8&title_color=FF9500&icon_color=FFB84D&text_color=E6EDF3&bg_color=0D1117&cache_seconds=86400" />
+<img height="170" src="https://streak-stats.demolab.com?user=Satvik2813&background=0D1117&border=21262D&border_radius=8&stroke=21262D&ring=FF9500&fire=FF9500&currStreakLabel=FF9500&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" />
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik2813&layout=compact&langs_count=8&border_color=21262D&border_radius=8&title_color=FF9500&text_color=E6EDF3&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik2813&layout=compact&langs_count=8&border_color=21262D&border_radius=8&title_color=FF9500&text_color=E6EDF3&bg_color=0D1117&cache_seconds=86400" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satvik2813&theme=github_dark" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satvik2813&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Satvik2813&theme=github_dark&utcOffset=5.5" />
 
 <br/><br/>
 
