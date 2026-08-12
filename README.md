@@ -1,73 +1,162 @@
-# 💫 About Me:
+<div align="center">
 
-🚀 Passionate project builder & developer  
-💻 Java & TypeScript enthusiast  
-🤖 Building intelligent agent systems  
-🤝 Looking to collaborate on innovative tech projects  
-⚡ Always exploring new tools and ideas  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0E14&height=180&section=header&text=%3E_%20Velagandula%20Satvik&fontSize=40&fontColor=00E5FF&desc=Building%20intelligent%20agent%20systems&descSize=16&descAlignY=64&animation=fadeIn" />
 
-## 🌐 Socials:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+B.Tech+student+%7C+AI+%26+ML;%24+stack+%E2%86%92+Java+%7C+TypeScript+%7C+Python;%24+building+%E2%86%92+AI+agents+%26+full-stack+apps;%24+cat+open-to.txt+%E2%86%92+Internships+%26+collaborations" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Satvik2813)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:satviktej13@gmail.com)
+<br/><br/>
 
-# 💻 Languages and Tools
+<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-0A0E14?style=flat-square&logo=graduation-cap&logoColor=00E5FF&labelColor=0A0E14" />
+<img src="https://img.shields.io/badge/Hyderabad-India-0A0E14?style=flat-square&logo=googlemaps&logoColor=00E5FF&labelColor=0A0E14" />
+<img src="https://komarev.com/ghpvc/?username=Satvik2813&style=flat-square&color=00E5FF&label=PROFILE+VIEWS" />
 
-### Languages
-[![Languages](https://skillicons.dev/icons?i=java,ts,js,py)](https://skillicons.dev)
+<br/><br/>
 
-### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs)](https://skillicons.dev)
+<a href="https://github.com/Satvik2813"><img src="https://img.shields.io/badge/GitHub-0A0E14?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+<a href="mailto:satviktej13@gmail.com"><img src="https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
 
-### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-
-### Database
-[![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
-
-### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter)](https://skillicons.dev)
-
-# 🛠️ Complete Tech Stack:
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Satvik2813&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Satvik2813&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik2813&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Satvik2813&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Satvik2813&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Satvik2813&icon=0&color=0)](https://visitcount.itsvg.in)
+## `> whoami`
+
+Project builder who likes shipping things end to end — from Java fundamentals to TypeScript agent systems. Currently focused on AI agents and full-stack products.
+
+```bash
+$ cat .profile
+
+ROLE     =  B.Tech Student  ·  Developer
+DOMAIN   =  AI Agents  |  Full-Stack Web  |  Data
+STACK    =  Java  |  TypeScript  |  Python  |  React  |  Node
+OPEN_TO  =  Internships  ·  Open source  ·  Collaborations
+```
+
+---
+
+## `> ls /stack`
+
+<div align="center">
+
+**Languages & Frontend**
+
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,react,nextjs,tailwind&theme=dark" />
+
+**Backend, Data & Tools**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## `> ls /projects`
+
+<details open>
+<summary><b>&#9654; ViviAgent — intelligent agent system</b></summary>
+
+<br/>
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | TypeScript |
+| **What it does** | ONE_LINE_DESCRIPTION |
+| **Repo** | [View](https://github.com/Satvik2813/ViviAgent) |
+
+</details>
+
+<details>
+<summary><b>&#9654; mealbridge-aid — food aid platform</b></summary>
+
+<br/>
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | TypeScript · React |
+| **What it does** | ONE_LINE_DESCRIPTION |
+| **Repo** | [View](https://github.com/Satvik2813/mealbridge-aid) |
+
+</details>
+
+<details>
+<summary><b>&#9654; DATAFLOW — data analysis / ML notebooks</b></summary>
+
+<br/>
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python · Jupyter |
+| **What it does** | ONE_LINE_DESCRIPTION |
+| **Repo** | [View](https://github.com/Satvik2813/DATAFLOW) |
+
+</details>
+
+<details>
+<summary><b>&#9654; Java Fundamentals — Banking & Calculator</b></summary>
+
+<br/>
+
+Core Java practice projects covering OOP, control flow and console I/O.
+
+| Repo | Link |
+| :-- | :-- |
+| **Banking** | [View](https://github.com/Satvik2813/Banking) |
+| **Calculator** | [View](https://github.com/Satvik2813/Calculator) |
+
+</details>
+
+---
+
+## `> git log --stat`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Satvik2813&show_icons=true&hide_border=true&title_color=00E5FF&icon_color=5EEAD4&text_color=E6EDF3&bg_color=0A0E14" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Satvik2813&hide_border=true&background=0A0E14&stroke=00E5FF&ring=5EEAD4&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B98A5" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik2813&layout=compact&hide_border=true&langs_count=8&title_color=00E5FF&text_color=E6EDF3&bg_color=0A0E14" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Satvik2813&bg_color=0A0E14&color=00E5FF&line=5EEAD4&point=E6EDF3&area=true&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Satvik2813&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" />
+
+</div>
+
+---
+
+## `> cat current-focus.yaml`
+
+```yaml
+learning:
+  - AI agent architectures and orchestration
+  - Backend design with Node and databases
+
+building:
+  - ViviAgent        # agent system in TypeScript
+  - Full-stack side projects
+
+open_to:
+  - Internships and entry-level dev roles
+  - Open source contributions
+```
+
+---
+
+<div align="center">
+
+<a href="mailto:satviktej13@gmail.com"><img src="https://img.shields.io/badge/Let's%20build%20something-0A0E14?style=for-the-badge&logo=minutemailer&logoColor=00E5FF" /></a>
+
+<br/><br/>
+
+<i>Build it, break it, ship it.</i>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0E14&height=120&section=footer" />
+
+</div>
