@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0D1117&height=180&section=header&text=%3E_%20Velagandula%20Satvik&fontSize=40&fontColor=FF9500&desc=Building%20intelligent%20agent%20systems&descSize=16&descAlignY=64&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF9500&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+B.Tech+student+%7C+AI+%26+ML;%24+stack+%E2%86%92+Java+%7C+TypeScript+%7C+Python;%24+building+%E2%86%92+AI+agents+%26+full-stack+apps;%24+cat+open-to.txt+%E2%86%92+Internships+%26+collaborations" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF9500&center=true&vCenter=true&width=820&lines=%24+who am i+%E2%86%92+B.Tech+student+%7C+AI+%26+ML;%24+stack+%E2%86%92+Java+%7C+TypeScript+%7C+Python;%24+building+%E2%86%92+AI+agents+%26+full-stack+apps;%24+cat+open-to.txt+%E2%86%92+Internships+%26+collaborations" />
 
 <br/><br/>
 
